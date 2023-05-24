@@ -27,8 +27,8 @@ As the entire game file is very large, I chose to only include the [game scripts
 
 ## Instructions
 - **Movement**
-        - Walking - moving left and right are controlled through A and D or the Arrow keys
-        - Short Teleport - Q and E can be used to teleport a short distance
+  - Walking - moving left and right are controlled through A and D or the Arrow keys
+  - Short Teleport - Q and E can be used to teleport a short distance
 - **Firing** - shoot a laser bolt with space or an arrow with the J key
 - **Pause** - pause and unpause are controlled through the P key
 - **Play** - The space bar will start the game from the beggining or after death
