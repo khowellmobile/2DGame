@@ -13,7 +13,7 @@ As the entire game file is very large, I chose to only include the [game scripts
 - **Enemies**
         - All enemy movement and animation is controlled by the [**Enemy Script**](Scripts/EnemyScript.cs)
 - **Destruction**
-        - Ensuring an object is not deleted before an associated animation is finished is done by the [**Destruction Script**](Scripts/Destruction.cs)
+        - Ensuring an object is not deleted before an associated animation is finished is done by the [**Destruction Script**](Scripts/DestructionScript.cs)
 - **Laser**
         - Projectile behavior is controlled by the [**Laser Script**](Scripts/LaserScript.cs)
 - **Powerups**
