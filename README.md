@@ -69,3 +69,9 @@ Enemy   | Description
 ---           | ---         
 ![Red enemy Image](ScreenShots/RedEnemy.png)        |  A larger red slime that moves at a slower pace
 ![Green enemy Image](ScreenShots/GreenEnemy.png)        |  A smaller green slime that moves at 1.5 times the speed of the red slime
+
+## Assets Used
+- [Slime Enemy - Pixel Art]()
+- [Warped Shootin Fx]()
+- [Free Cartoon Parallax Background]()
+- [2D Character - Astronaut]()
