@@ -51,7 +51,7 @@ Projectile     | Description
 ![BaseBolt Image](ScreenShots/Basebolt.png)        |  Base laser bolt
 ![GreenBolt Image](ScreenShots/Greenbolt.png)        |  A green laser bolt activated through a power up
 ![PurpleBolt Image](ScreenShots/Purplebolt.png)        |  A purple laser bolt activated through a power up
-![Arrow Image](ScreenShots/Arrow.png)        |  An arrow projectile shot by using the J key
+![Arrow Image](ScreenShots/Arrow1.png)        |  An arrow projectile shot by using the J key
 
 ### Player health
 The current player health is located in the lower right hand part of the screen and changes based upon the current number of lives.
