@@ -71,7 +71,7 @@ Enemy   | Description
 ![Green enemy Image](ScreenShots/GreenEnemy.png)        |  A smaller green slime that moves at 1.5 times the speed of the red slime
 
 ## Assets Used
-- [Slime Enemy - Pixel Art](https://assetstore.unity.com/packages/2d/characters/slime-enemy-pixel-art-228568)
-- [Warped Shooting Fx](https://assetstore.unity.com/packages/2d/textures-materials/abstract/warped-shooting-fx-195246)
-- [Free Cartoon Parallax Background](https://assetstore.unity.com/packages/2d/environments/free-2d-cartoon-parallax-background-205812)
-- [2D Character - Astronaut](https://assetstore.unity.com/packages/2d/characters/2d-character-astronaut-182650)
+- [Slime Enemy - Pixel Art](https://assetstore.unity.com/packages/2d/characters/slime-enemy-pixel-art-228568) by War
+- [Warped Shooting Fx](https://assetstore.unity.com/packages/2d/textures-materials/abstract/warped-shooting-fx-195246) by Ansimuz
+- [Free Cartoon Parallax Background](https://assetstore.unity.com/packages/2d/environments/free-2d-cartoon-parallax-background-205812) by CPasteGame
+- [2D Character - Astronaut](https://assetstore.unity.com/packages/2d/characters/2d-character-astronaut-182650) by Copyspright
