@@ -1,12 +1,12 @@
 # 2DGame
 
-This game is a simple 2D shooter where an astronaut man has to defend himself against red and green slimes. He can collect powerups along the way that can change the color of his projectiles, increase/decrease his speed, and give him extra lives.
+This game is a simple 2D shooter where an astronaut man has to defend himself against red and green slimes. He can collect powerups along the way that change the color of his projectiles, increase/decrease his speed, and give him extra lives.
 <br>
 <br>
 Click [**here**](https://drive.google.com/file/d/1hVBlcKym0YSRHYSLyeFPnXLwwsS0Vm7s/view?usp=sharing) for a 1 minute demo video.
 
 ## Technical
-As the entire game file is very large I chose to only include the [game scripts](Scripts) and the [prefabs](Prefabs) in this repository. All scripts are written in C#.
+As the entire game file is very large, I chose to only include the [game scripts](Scripts) and the [prefabs](Prefabs) in this repository. All scripts are written in C#.
 
 - **Player**
         - All player movement, shooting, and animation is controlled by the [**Player Script**](Scripts/PlayerScript.cs) 
